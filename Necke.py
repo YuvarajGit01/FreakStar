@@ -1,3 +1,2 @@
 # FreakStar
-Wonder
-Glitch
+print("Garg")
